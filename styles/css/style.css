@@ -225,15 +225,15 @@ select {
 .letter p {
   color: #7a3f59;
   font-size: 5.5vw;
-  max-height: 20em;
   overflow: auto;
+  max-height: 17em;
 }
 @media screen and (min-width: 750px) {
   .letter h1 {
     font-size: 4em;
   }
   .letter p {
-    color: #7a3f59;
+    max-height: 20em;
     font-size: 2em;
   }
 }
