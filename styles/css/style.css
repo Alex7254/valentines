@@ -108,7 +108,7 @@ select {
   width: 100%;
   background: rgba(236, 187, 217, 0.75);
   border-radius: 2em;
-  margin: auto;
+  margin: 4em auto 0 auto;
 }
 .body--wrapper .heart {
   height: 58em;
@@ -198,7 +198,7 @@ select {
 
 .letter {
   max-width: 1600px;
-  margin: auto;
+  margin: 4em auto 0 auto;
   text-align: center;
   padding: 2em;
   display: none;
@@ -215,6 +215,7 @@ select {
   border-radius: 2em;
   max-height: 40em;
   margin: auto;
+  height: fit-content;
 }
 .letter h1 {
   width: fit-content;
