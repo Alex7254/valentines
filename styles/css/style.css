@@ -198,7 +198,7 @@ select {
 
 .letter {
   max-width: 1600px;
-  margin: 4em auto 0 auto;
+  margin: 8em auto 0 auto;
   text-align: center;
   padding: 2em;
   display: none;
@@ -230,6 +230,9 @@ select {
   max-height: 17em;
 }
 @media screen and (min-width: 750px) {
+  .letter {
+    margin: 4em auto 0 auto;
+  }
   .letter h1 {
     font-size: 4em;
   }
