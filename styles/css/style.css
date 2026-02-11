@@ -198,7 +198,7 @@ select {
 
 .letter {
   max-width: 1600px;
-  margin: 8em auto 0 auto;
+  margin: 12em auto 0 auto;
   text-align: center;
   padding: 2em;
   display: none;
